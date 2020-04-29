@@ -15,11 +15,6 @@ To install the flask app, you need:
  pip install -r requirements.txt
 ```
 
-## Installing
-
-On a MacOS/linux system, installation is easy. Open a terminal, and go into 
-the directory with the flask app files. Run `python worldbank.py` in the terminal.
-
 ## Result  <a name="Python Library used"></a>
 
 For viewing the World Bank Data Analytics Dashboard v1 [click here](https://toulikdevdata.herokuapp.com/)
